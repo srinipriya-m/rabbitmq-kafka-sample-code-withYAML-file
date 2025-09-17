@@ -146,7 +146,7 @@ function reArrangeStructure(arr){
     return results;
 }
 
-//console.log(reArrangeStructure(people));
+console.log(reArrangeStructure(people));
 
 
 let res = 5 + "3";
