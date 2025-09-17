@@ -160,4 +160,4 @@ console.log(res2); //2
  
  
 let res3 = 5 - - "3";
-console.log(res3); //8
+console.log(res3); //20
